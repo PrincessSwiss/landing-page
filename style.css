@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: grey;
+
+}
+#secta {
+    background-image:url('/image/f912301d-62e7-4ad5-b97b-42845e3b51ef.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+
+#secta h2{
+padding-left: 40px;
+margin-left: 60px;
+border-radius: 50px;
+border-width: 40px;
+border: 1px solid blue;
+
+}
